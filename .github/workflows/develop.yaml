@@ -1,4 +1,5 @@
-name: Devcourse Last Project CI with Gradle to Develop Branch
+name: develop branch
+
 on:
   pull_request:
     branches:
